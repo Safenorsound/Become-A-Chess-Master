@@ -4,6 +4,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 Banner Photo by Photo by sk on Unsplash
 
+The sign up form was kept in the front end but not applied in the backend.  
+
  Roberto Reposo on Unsplash
 
 A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
