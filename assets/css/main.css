@@ -1026,7 +1026,7 @@ input, select, textarea {
 				align-items: stretch;
 			}
 
-				.row > * {
+				/* .row > * { */
 					box-sizing: border-box;
 				}
 
@@ -1258,7 +1258,7 @@ input, select, textarea {
 
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 3em;
-						}
+						/* } */
 
 		}
 
